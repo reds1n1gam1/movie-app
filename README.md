@@ -5,3 +5,11 @@
 - 5. Add genre detail page
 - 6. Add movie trailer watch page
 - 7. Add random film select page
+
+# Deploy command
+
+` ng deploy --base-href=/angular-app/`
+
+# Deploy Gihub pages:
+
+[https://reds1n1gam1.github.io/movie-app/](https://reds1n1gam1.github.io/movie-app/)
